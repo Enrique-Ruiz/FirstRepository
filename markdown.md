@@ -1,8 +1,8 @@
-# Heading 1
+# First Heading Example
 
-## Heading 2
+## Second Heading Example
 
-## Heading 3
+## Third Heading Example
 
 * Item 1
 * Item 2
